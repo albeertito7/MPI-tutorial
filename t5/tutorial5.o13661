@@ -1,0 +1,13 @@
+-catch_rsh /opt/gridengine/default/spool/compute-0-5/active_jobs/13661.1/pe_hostfile
+compute-0-5
+compute-0-5
+P: 1:
+ x: 1.200000
+ y: 2.300000
+ massa: 72.500000
+ Nombre: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ Vector:
+  vector[0][0] = 1
+  vector[0][1] = 1
+  vector[1][0] = 1
+  vector[1][1] = 1

@@ -1,0 +1,14 @@
+-catch_rsh /opt/gridengine/default/spool/compute-0-7/active_jobs/13850.1/pe_hostfile
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-7
+compute-0-2
+compute-0-2
+P: 4, Resultado parcial: 54
+P: 5, Resultado parcial: 60
+P: 0, Resultado parcial: 18
+P: 1, Resultado parcial: 42
+P: 2, Resultado parcial: 66
+P: 3, Resultado parcial: 90
+Resultado final: 330

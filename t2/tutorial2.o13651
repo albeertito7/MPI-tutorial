@@ -1,0 +1,9 @@
+-catch_rsh /opt/gridengine/default/spool/compute-0-4/active_jobs/13651.1/pe_hostfile
+compute-0-4
+compute-0-4
+Tamaño mensaje: 2, Tiempo promedio: 0.000076
+Tamaño mensaje: 8, Tiempo promedio: 0.000073
+Tamaño mensaje: 32, Tiempo promedio: 0.000085
+Tamaño mensaje: 128, Tiempo promedio: 0.000097
+Tamaño mensaje: 1024, Tiempo promedio: 0.000225
+Tamaño mensaje: 8192, Tiempo promedio: 0.001071

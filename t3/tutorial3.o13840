@@ -1,0 +1,9 @@
+-catch_rsh /opt/gridengine/default/spool/compute-0-7/active_jobs/13840.1/pe_hostfile
+compute-0-7
+compute-0-7
+Tiempo promedio bloqueante: 0.000235
+Tiempo promedio bloqueante buffer: 0.000272
+Tiempo promedio bloqueante síncrona: 0.004982
+Tiempo promedio no bloqueante: 0.000188
+Tiempo promedio no bloqueante buffer: 0.000252
+Tiempo promedio no bloqueante síncrona: 0.000182

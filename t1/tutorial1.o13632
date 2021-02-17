@@ -1,0 +1,17 @@
+-catch_rsh /opt/gridengine/default/spool/compute-0-6/active_jobs/13632.1/pe_hostfile
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-6
+compute-0-0
+compute-0-0
+compute-0-0
+compute-0-0
+Numero de procesos arrancados: 8
+Hola Mundo Paralelo! Ejecutable: ./tutorial1, Pid: 14647, Rango: 1, Maquina: compute-0-6.local
+Hola Mundo Paralelo! Ejecutable: ./tutorial1, Pid: 14649, Rango: 3, Maquina: compute-0-6.local
+Hola Mundo Paralelo! Ejecutable: ./tutorial1, Pid: 14973, Rango: 4, Maquina: compute-0-0.local
+Hola Mundo Paralelo! Ejecutable: ./tutorial1, Pid: 14974, Rango: 5, Maquina: compute-0-0.local
+Hola Mundo Paralelo! Ejecutable: ./tutorial1, Pid: 14648, Rango: 2, Maquina: compute-0-6.local
+Hola Mundo Paralelo! Ejecutable: ./tutorial1, Pid: 14975, Rango: 6, Maquina: compute-0-0.local
+Hola Mundo Paralelo! Ejecutable: ./tutorial1, Pid: 14976, Rango: 7, Maquina: compute-0-0.local
